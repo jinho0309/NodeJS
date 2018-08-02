@@ -1,4 +1,4 @@
-##npm(Node Package Manager)
+## npm(Node Package Manager)
 - Node계의 앱스토어.
 - Module이라는 부품을 설치, 삭제, 관리등을 지원하는 Package Manager.
 - https://www.npmjs.com
