@@ -11,14 +11,14 @@ $ npm init
 ```
 
 2. 설치
-~~~
+```
 $ npm install underscore [--save -g]
-~~~
-    - <b>--save 옵션</b> : 만약 현재 경로에 package.json 이 존재하면 아래와 같이 dependencies 항목에 자동으로 포함된다.
-    - **-g** : 전역옵션
+```
+   - <b>--save 옵션</b> : 만약 현재 경로에 package.json 이 존재하면 아래와 같이 dependencies 항목에 자동으로 포함된다.<br>
+   - **-g** : 전역옵션
 
 3. 사용
-~~~
+```
 const _ = require('underscore');
-~~~
+```
 
