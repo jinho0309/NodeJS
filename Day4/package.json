@@ -1,0 +1,18 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "Day4",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "node-mysql": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
